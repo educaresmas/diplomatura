@@ -49,3 +49,14 @@ Las contribuciones han sido realizadas de forma colaborativa. Hemos construido e
 - Cuenta con una amplia biblioteca de componentes y plantillas predefinidas que acelera y facilita de forma notable todo el proceso de diseño y desarrollo UI.
 - Incorpora todas las herramientas y funcionalidades de diseño necesarias para abordar proyectos profesionales.
 - Cuenta con un plan gratuito con funciones limitadas que permite evaluar la herramienta antes de realizar su adquisición.
+
+##### _CASOS DE USO DE FIGMA EN DISEÑO Y PROTOTIPOS_
+Figma es una herramienta de diseño y prototipado en linea que ofrece una variedad de casos de uso para mejorar el proceso de diseño. Algunos de los casos de uso mas comunes de Figma incluyen:
+  1. DISEÑO DE INTERFACES DE USUARIO (UI): Figma se utiliza para crear prototipos de alta fidelidad de pantallas y flujos de usuario para aplicaciones web y moviles.
+  2. DISEÑO DE EXPERIENCIA DEL USUARIO (UX): Figma ayuda a los diseñadores a crear diagramas de flujo, mapas de color y otros elementos visuales para planificar la experiencia del usuario.
+  3. PROTOTIPADO INTERACTIVO: Figma permite a los diseñadores crear prototipos interactivos para probar y refinar la interaccion del usuario con la aplicacion o sitio web.
+  4. DISEÑO DE SISTEMAS: Figma se utiliza para crear y mantener sistemas de diseños consistentes a lo largo de toda la organizacion.
+  5. DISEÑO DE PRODUCTOS: Figma se utiliza para diseñar y prototipar productos digitales, como aplicaciones moviles, sitios web y software.
+  6. DISEÑO DE SERVICIOS: Figma ayuda a los diseñadores a planificar y prototipar servicios, como flujos de trabajo y expericia del cliente.
+  7. EDUCACION Y CAPACITACION: Figma se utiliza en entornos educativos para enseñar diseño y prototipado.
+  8. CREACION DE ASSETS VISUALES: Figma se utiliza para crear assets visuales, como iconos, logostipos y graficos.
